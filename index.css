@@ -1,0 +1,16 @@
+.zagolovok {
+    color: blue;
+    front-size: 50px;
+}
+
+.zagolovok2{
+    color: pink;
+}
+
+span {
+    color: green;
+}
+
+* {
+    front-size: 5px
+}
